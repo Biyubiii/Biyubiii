@@ -32,7 +32,8 @@ I'm an S1 student in Information Systems at Universitas Metaguna, now in semeste
 - I'm a big fan of Hololive songs, both original tracks and cover songs, especially those by **Hoshimachi Suisei** and **Tokoyami Towa**.
 
 ## 📁 My projects
-- ON PROGRESS
+- [Wa Bot](https://github.com/Biyubiii/wabot)
+
 
 ## 🎯 Why I made this
 1. 📚 To learn
