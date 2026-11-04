@@ -31,6 +31,10 @@ I'm an S1 student in Information Systems at Universitas Metaguna, now in semeste
 - I love Japanese songs the most.
 - I'm a big fan of Hololive songs, both original tracks and cover songs, especially those by **Hoshimachi Suisei** and **Tokoyami Towa**.
 
+## 🖥️ My desktop
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/55c65161-eef7-4928-a031-53c258a9c271" />
+
+
 ## 📁 My projects
 - [Wa Bot](https://github.com/Biyubiii/wabot)
 
